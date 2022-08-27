@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Guilherme, a DevOps and Developer Php, Js.
+
+- :alien: Pronouns: he/him
+- 💬 Ask me about:
+    - Wine :wine_glass:
+    - Pink Floyd :guitar:
+- 📫 How to reach me:
+    - [LinkedIn](https://www.linkedin.com/in/guilherme-linhares-a47873164/)
+
 <!--
 **guilhermelinhares/guilhermelinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
