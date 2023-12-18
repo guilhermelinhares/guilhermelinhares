@@ -3,10 +3,6 @@
 I am Guilherme, a DevOps and Developer Php, Js.
 
 - 👽 Pronouns: he/him
-- 💬 Ask me about:
-    - Wine 🍷
-    - Movies 🎥
-    - Pink Floyd 🎸
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/guilherme-linhares-a47873164/)
 
